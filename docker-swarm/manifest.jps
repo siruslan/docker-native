@@ -54,7 +54,7 @@ settings:
         - name: stackName
           type: string
           caption: Stack Name
-          default: example
+          default: vote
           required: true
         - name: preHook
           type: string
